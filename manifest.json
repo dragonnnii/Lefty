@@ -1,0 +1,10 @@
+{
+  "Name": "W-Key Click Swapper",
+  "Author": "User",
+  "Version": "1.0.0",
+  "Description": "Press W to make all taps act as Right-Clicks. Perfect for Android Altar access.",
+  "UniqueID": "User.WClickSwapper",
+  "EntryDll": "LeftClickToRightClick.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
